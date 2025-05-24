@@ -1,0 +1,58 @@
+
+  
+    {"P001":
+    {"name": "Alice Johnson",
+    "age": 28,
+    "gender": "Female",
+    "city": "New York",
+    "height_cm": 165,
+    "weight_kg": 60,
+    "BMI": 22.0,
+    "blood_group": "A+",
+    "status": "Stable"
+  },
+  "P002":{
+    "name": "Michael Singh",
+    "age": 45,
+    "gender": "Male",
+    "city": "San Francisco",
+    "height_cm": 178,
+    "weight_kg": 82,
+    "BMI": 25.9,
+    "blood_group": "B+",
+    "status": "Under Observation"
+  },
+  "P003":{
+    "name": "Rajiv Kumar",
+    "age": 34,
+    "gender": "Male",
+    "city": "Delhi",
+    "height_cm": 172,
+    "weight_kg": 74,
+    "BMI": 25.0,
+    "blood_group": "O+",
+    "status": "Recovering"
+  },
+ "P004":{
+    "name": "Emily Zhang",
+    "age": 52,
+    "gender": "Female",
+    "city": "Toronto",
+    "height_cm": 158,
+    "weight_kg": 68,
+    "BMI": 27.2,
+    "blood_group": "AB-",
+    "status": "Critical"
+  },
+ "P005":{
+    "name": "Alex Morgan",
+    "age": 30,
+    "gender": "Non-binary",
+    "city": "London",
+    "height_cm": 170,
+    "weight_kg": 70,
+    "BMI": 24.2,
+    "blood_group": "O-",
+    "status": "Stable"
+  }}
+
